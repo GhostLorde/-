@@ -1,0 +1,6 @@
+INFO:root:Введите порт, который хотите открыть: 9090
+INFO:root:Слушаю порт: 9090
+INFO:root:('192.168.1.64', 50777)
+INFO:root:Message from user2: 12
+INFO:root:('192.168.1.64', 50777)
+INFO:root:Message from user2: 123

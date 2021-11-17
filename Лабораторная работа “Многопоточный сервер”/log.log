@@ -1,0 +1,6 @@
+INFO:root:Add new user: ('127.0.0.1', 49859)
+INFO:root:Message from user: user1: hi
+INFO:root:Add new user: ('192.168.1.64', 49864)
+INFO:root:Message from user: user2: hihi
+INFO:root:Message from user: user2: 
+INFO:root:Message from user: user2: 
